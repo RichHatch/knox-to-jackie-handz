@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
-	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
+	"name": "Knox to Jackie Handz",
+	"version": "1.1",
+	"description": "Replaces the text 'Andrew Knox' with 'Jackie Handz'.",
 	"content_scripts": 
 	[
 		{
